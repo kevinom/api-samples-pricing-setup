@@ -1,0 +1,12 @@
+{
+  "ids": {
+    "product": 4
+  },
+  "models": {
+    "product": {
+      "1": "{\"product_id\":\"1\",\"price\":100}",
+      "2": "{\"product_id\":\"2\",\"price\":200}",
+      "3": "{\"product_id\":\"3\",\"price\":300.15}"
+    }
+  }
+}
