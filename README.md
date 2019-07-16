@@ -1,6 +1,6 @@
 # Product Pricing Application
 
-Change the application name in the IBM Cloud Deploy stage to pricesample
+Change the application name in the IBM Cloud Deploy stage to **pricesample**
 
 The product can be tested on https://pricesample.mybluemix.net/price
 
